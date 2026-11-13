@@ -11,11 +11,14 @@ Team Name: GitCats!
   
   Ethan Brenize: etb102@pitt.edu
 
+An analysis of Pittsburgh neighborhoods based on the metric of driving safety
+
 Data Sets:
-[High Injury Network - Dataset - CKAN](https://data.wprdc.org/dataset/high-injury-network) 
 
-[Allegheny County Crash Data](https://data.wprdc.org/dataset/allegheny-county-crash-data) - This data provides a record of car crashes that have occurred in Pittsburgh and the cordinates of where they occurred.
+  [High Injury Network - Dataset - CKAN](https://data.wprdc.org/dataset/high-injury-network) 
 
-[Neighborhoods](https://data.wprdc.org/dataset/neighborhoods2) - coordinates of Pittsburgh neighborhood boundaries
+  [Allegheny County Crash Data](https://data.wprdc.org/dataset/allegheny-county-crash-data) - This data provides a record of car crashes that have occurred in Pittsburgh and the cordinates of where they occurred.
 
-[City of Pittsburgh Traffic Signs](https://data.wprdc.org/dataset/city-traffic-signs) - inventory of City of Pittsburgh Traffic signs such as; Stop, Stop Ahead, and Yield Signs, and Wayfinder signs
+  [Neighborhoods](https://data.wprdc.org/dataset/neighborhoods2) - coordinates of Pittsburgh neighborhood boundaries
+
+  [City of Pittsburgh Traffic Signs](https://data.wprdc.org/dataset/city-traffic-signs) - inventory of City of Pittsburgh Traffic signs such as; Stop, Stop Ahead, and Yield Signs, and Wayfinder signs
