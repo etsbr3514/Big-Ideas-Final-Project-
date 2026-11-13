@@ -4,7 +4,6 @@ Big Ideas Final Project repo
 
 Team Name: GitCats!
 
-Members
 
   Prerna Barve: ppb13@pitt.edu
   
