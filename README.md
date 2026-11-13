@@ -1,5 +1,16 @@
 # Big-Ideas-Final-Project-
 Big Ideas Final Project repo
-[High Injury Network - Dataset - CKAN](https://data.wprdc.org/dataset/high-injury-network)- Ethan Brenize
-[Allegheny County Crash Data](https://data.wprdc.org/dataset/allegheny-county-crash-data) - Prerna Barve
-[City of Pittsburgh Speed Humps](https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps) - Amy Schmitt
+Team Name: GitCats!
+Members
+  Prerna Barve: ppb13@pitt.edu 
+  Amy Schmitt: ars982@pitt.edu
+  Ethan Brenize: etb102@pitt.edu
+
+Data Sets:
+[High Injury Network - Dataset - CKAN](https://data.wprdc.org/dataset/high-injury-network) 
+
+[Allegheny County Crash Data](https://data.wprdc.org/dataset/allegheny-county-crash-data) - This data provides a record of car crashes that have occurred in Pittsburgh and the cordinates of where they occurred.
+
+[Neighborhoods](https://data.wprdc.org/dataset/neighborhoods2) - coordinates of Pittsburgh neighborhood boundaries
+
+[City of Pittsburgh Speed Humps](https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps) 
