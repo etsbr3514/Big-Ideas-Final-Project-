@@ -21,4 +21,4 @@ Data Sets:
 
   [Neighborhoods](https://data.wprdc.org/dataset/neighborhoods2) - coordinates of Pittsburgh neighborhood boundaries
 
-  [City of Pittsburgh Traffic Signs](https://data.wprdc.org/dataset/city-traffic-signs) - inventory of City of Pittsburgh Traffic signs such as; Stop, Stop Ahead, and Yield Signs, and Wayfinder signs
+  [City of Pittsburgh Traffic Signs](https://data.wprdc.org/dataset/city-traffic-signs) - inventory of City of Pittsburgh traffic signs such as; stop, stop ahead, and yield signs, and wayfinder signs
