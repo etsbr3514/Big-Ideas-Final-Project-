@@ -1,9 +1,15 @@
 # Big-Ideas-Final-Project-
+
 Big Ideas Final Project repo
+
 Team Name: GitCats!
+
 Members
-  Prerna Barve: ppb13@pitt.edu 
+
+  Prerna Barve: ppb13@pitt.edu
+  
   Amy Schmitt: ars982@pitt.edu
+  
   Ethan Brenize: etb102@pitt.edu
 
 Data Sets:
