@@ -18,4 +18,4 @@ Data Sets:
 
 [Neighborhoods](https://data.wprdc.org/dataset/neighborhoods2) - coordinates of Pittsburgh neighborhood boundaries
 
-[City of Pittsburgh Speed Humps](https://data.wprdc.org/dataset/city-of-pittsburgh-speed-humps) 
+[City of Pittsburgh Traffic Signs](https://data.wprdc.org/dataset/city-traffic-signs) 
